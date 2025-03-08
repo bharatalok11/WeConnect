@@ -1,7 +1,8 @@
 # WeConnect – Bringing People Closer
 📌 Full-Stack Video Calling and Chat Platform
-🔹 Developed a real-time communication platform enabling video calls and instant messaging.
-🔹 Implemented secure user authentication, scalable backend services, and seamless UI/UX.
+
+🔹 Developed a real-time communication platform enabling video calls and instant messaging.\
+🔹 Implemented secure user authentication, scalable backend services, and seamless UI/UX.\
 🔹 Leveraged modern web technologies and frameworks to ensure a smooth user experience.
 
 
